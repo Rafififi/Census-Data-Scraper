@@ -1,5 +1,6 @@
 # CSV scraper
-A CSV scraper made in python specifically made for Candaian Census Data 
+A CSV scraper made in python specifically made for Canadian Census Data 
+##Now With A GUI
 
 ## How to install and use
 
